@@ -1,0 +1,15 @@
+C:\Users\Ahmed\Desktop\visual_c#\LInq\LInq\bin\Debug\net7.0\LInq.exe
+C:\Users\Ahmed\Desktop\visual_c#\LInq\LInq\bin\Debug\net7.0\LInq.deps.json
+C:\Users\Ahmed\Desktop\visual_c#\LInq\LInq\bin\Debug\net7.0\LInq.runtimeconfig.json
+C:\Users\Ahmed\Desktop\visual_c#\LInq\LInq\bin\Debug\net7.0\LInq.dll
+C:\Users\Ahmed\Desktop\visual_c#\LInq\LInq\bin\Debug\net7.0\LInq.pdb
+C:\Users\Ahmed\Desktop\visual_c#\LInq\LInq\obj\Debug\net7.0\LInq.csproj.AssemblyReference.cache
+C:\Users\Ahmed\Desktop\visual_c#\LInq\LInq\obj\Debug\net7.0\LInq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed\Desktop\visual_c#\LInq\LInq\obj\Debug\net7.0\LInq.AssemblyInfoInputs.cache
+C:\Users\Ahmed\Desktop\visual_c#\LInq\LInq\obj\Debug\net7.0\LInq.AssemblyInfo.cs
+C:\Users\Ahmed\Desktop\visual_c#\LInq\LInq\obj\Debug\net7.0\LInq.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Desktop\visual_c#\LInq\LInq\obj\Debug\net7.0\LInq.dll
+C:\Users\Ahmed\Desktop\visual_c#\LInq\LInq\obj\Debug\net7.0\refint\LInq.dll
+C:\Users\Ahmed\Desktop\visual_c#\LInq\LInq\obj\Debug\net7.0\LInq.pdb
+C:\Users\Ahmed\Desktop\visual_c#\LInq\LInq\obj\Debug\net7.0\LInq.genruntimeconfig.cache
+C:\Users\Ahmed\Desktop\visual_c#\LInq\LInq\obj\Debug\net7.0\ref\LInq.dll

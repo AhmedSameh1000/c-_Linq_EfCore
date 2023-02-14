@@ -1,0 +1,15 @@
+C:\Users\Ahmed\Desktop\visual_c#\New folder\first_session_1\first_session_1\obj\Debug\net7.0\first_session_1.csproj.AssemblyReference.cache
+C:\Users\Ahmed\Desktop\visual_c#\New folder\first_session_1\first_session_1\obj\Debug\net7.0\first_session_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed\Desktop\visual_c#\New folder\first_session_1\first_session_1\obj\Debug\net7.0\first_session_1.AssemblyInfoInputs.cache
+C:\Users\Ahmed\Desktop\visual_c#\New folder\first_session_1\first_session_1\obj\Debug\net7.0\first_session_1.AssemblyInfo.cs
+C:\Users\Ahmed\Desktop\visual_c#\New folder\first_session_1\first_session_1\obj\Debug\net7.0\first_session_1.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Desktop\visual_c#\New folder\first_session_1\first_session_1\bin\Debug\net7.0\first_session_1.exe
+C:\Users\Ahmed\Desktop\visual_c#\New folder\first_session_1\first_session_1\bin\Debug\net7.0\first_session_1.deps.json
+C:\Users\Ahmed\Desktop\visual_c#\New folder\first_session_1\first_session_1\bin\Debug\net7.0\first_session_1.runtimeconfig.json
+C:\Users\Ahmed\Desktop\visual_c#\New folder\first_session_1\first_session_1\bin\Debug\net7.0\first_session_1.dll
+C:\Users\Ahmed\Desktop\visual_c#\New folder\first_session_1\first_session_1\bin\Debug\net7.0\first_session_1.pdb
+C:\Users\Ahmed\Desktop\visual_c#\New folder\first_session_1\first_session_1\obj\Debug\net7.0\first_session_1.dll
+C:\Users\Ahmed\Desktop\visual_c#\New folder\first_session_1\first_session_1\obj\Debug\net7.0\refint\first_session_1.dll
+C:\Users\Ahmed\Desktop\visual_c#\New folder\first_session_1\first_session_1\obj\Debug\net7.0\first_session_1.pdb
+C:\Users\Ahmed\Desktop\visual_c#\New folder\first_session_1\first_session_1\obj\Debug\net7.0\first_session_1.genruntimeconfig.cache
+C:\Users\Ahmed\Desktop\visual_c#\New folder\first_session_1\first_session_1\obj\Debug\net7.0\ref\first_session_1.dll

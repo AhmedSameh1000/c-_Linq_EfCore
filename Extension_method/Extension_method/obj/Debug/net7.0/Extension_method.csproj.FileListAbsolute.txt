@@ -1,0 +1,15 @@
+C:\Users\Ahmed\Desktop\visual_c#\Extension_method\Extension_method\bin\Debug\net7.0\Extension_method.exe
+C:\Users\Ahmed\Desktop\visual_c#\Extension_method\Extension_method\bin\Debug\net7.0\Extension_method.deps.json
+C:\Users\Ahmed\Desktop\visual_c#\Extension_method\Extension_method\bin\Debug\net7.0\Extension_method.runtimeconfig.json
+C:\Users\Ahmed\Desktop\visual_c#\Extension_method\Extension_method\bin\Debug\net7.0\Extension_method.dll
+C:\Users\Ahmed\Desktop\visual_c#\Extension_method\Extension_method\bin\Debug\net7.0\Extension_method.pdb
+C:\Users\Ahmed\Desktop\visual_c#\Extension_method\Extension_method\obj\Debug\net7.0\Extension_method.csproj.AssemblyReference.cache
+C:\Users\Ahmed\Desktop\visual_c#\Extension_method\Extension_method\obj\Debug\net7.0\Extension_method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed\Desktop\visual_c#\Extension_method\Extension_method\obj\Debug\net7.0\Extension_method.AssemblyInfoInputs.cache
+C:\Users\Ahmed\Desktop\visual_c#\Extension_method\Extension_method\obj\Debug\net7.0\Extension_method.AssemblyInfo.cs
+C:\Users\Ahmed\Desktop\visual_c#\Extension_method\Extension_method\obj\Debug\net7.0\Extension_method.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Desktop\visual_c#\Extension_method\Extension_method\obj\Debug\net7.0\Extension_method.dll
+C:\Users\Ahmed\Desktop\visual_c#\Extension_method\Extension_method\obj\Debug\net7.0\refint\Extension_method.dll
+C:\Users\Ahmed\Desktop\visual_c#\Extension_method\Extension_method\obj\Debug\net7.0\Extension_method.pdb
+C:\Users\Ahmed\Desktop\visual_c#\Extension_method\Extension_method\obj\Debug\net7.0\Extension_method.genruntimeconfig.cache
+C:\Users\Ahmed\Desktop\visual_c#\Extension_method\Extension_method\obj\Debug\net7.0\ref\Extension_method.dll

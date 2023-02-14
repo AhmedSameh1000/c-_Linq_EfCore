@@ -1,0 +1,196 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Ahmed\\Desktop\\visual_c#\\Ado_with_forms\\Dal\\App\\App.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ahmed\\Desktop\\visual_c#\\Ado_with_forms\\Dal\\App\\App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ahmed\\Desktop\\visual_c#\\Ado_with_forms\\Dal\\App\\App.csproj",
+        "projectName": "App",
+        "projectPath": "C:\\Users\\Ahmed\\Desktop\\visual_c#\\Ado_with_forms\\Dal\\App\\App.csproj",
+        "packagesPath": "C:\\Users\\Ahmed\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ahmed\\Desktop\\visual_c#\\Ado_with_forms\\Dal\\App\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Ahmed\\Desktop\\visual_c#\\Ado_with_forms\\Dal\\Bal\\Bal.csproj": {
+                "projectPath": "C:\\Users\\Ahmed\\Desktop\\visual_c#\\Ado_with_forms\\Dal\\Bal\\Bal.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Ahmed\\Desktop\\visual_c#\\Ado_with_forms\\Dal\\Bal\\Bal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ahmed\\Desktop\\visual_c#\\Ado_with_forms\\Dal\\Bal\\Bal.csproj",
+        "projectName": "Bal",
+        "projectPath": "C:\\Users\\Ahmed\\Desktop\\visual_c#\\Ado_with_forms\\Dal\\Bal\\Bal.csproj",
+        "packagesPath": "C:\\Users\\Ahmed\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ahmed\\Desktop\\visual_c#\\Ado_with_forms\\Dal\\Bal\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Ahmed\\Desktop\\visual_c#\\Ado_with_forms\\Dal\\Dal\\Dal.csproj": {
+                "projectPath": "C:\\Users\\Ahmed\\Desktop\\visual_c#\\Ado_with_forms\\Dal\\Dal\\Dal.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Ahmed\\Desktop\\visual_c#\\Ado_with_forms\\Dal\\Dal\\Dal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ahmed\\Desktop\\visual_c#\\Ado_with_forms\\Dal\\Dal\\Dal.csproj",
+        "projectName": "Dal",
+        "projectPath": "C:\\Users\\Ahmed\\Desktop\\visual_c#\\Ado_with_forms\\Dal\\Dal\\Dal.csproj",
+        "packagesPath": "C:\\Users\\Ahmed\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ahmed\\Desktop\\visual_c#\\Ado_with_forms\\Dal\\Dal\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\ELBOSTAN\source\repos\Visual_Net_Qena_Q1\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+C:\Users\ELBOSTAN\source\repos\Visual_Net_Qena_Q1\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELBOSTAN\source\repos\Visual_Net_Qena_Q1\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+C:\Users\ELBOSTAN\source\repos\Visual_Net_Qena_Q1\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+C:\Users\ELBOSTAN\source\repos\Visual_Net_Qena_Q1\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\ELBOSTAN\source\repos\Visual_Net_Qena_Q1\BLL\bin\Debug\net5.0\BLL.deps.json
+C:\Users\ELBOSTAN\source\repos\Visual_Net_Qena_Q1\BLL\bin\Debug\net5.0\BLL.dll
+C:\Users\ELBOSTAN\source\repos\Visual_Net_Qena_Q1\BLL\bin\Debug\net5.0\ref\BLL.dll
+C:\Users\ELBOSTAN\source\repos\Visual_Net_Qena_Q1\BLL\bin\Debug\net5.0\BLL.pdb
+C:\Users\ELBOSTAN\source\repos\Visual_Net_Qena_Q1\BLL\bin\Debug\net5.0\DAL.dll
+C:\Users\ELBOSTAN\source\repos\Visual_Net_Qena_Q1\BLL\bin\Debug\net5.0\DAL.pdb
+C:\Users\ELBOSTAN\source\repos\Visual_Net_Qena_Q1\BLL\obj\Debug\net5.0\BLL.csproj.CopyComplete
+C:\Users\ELBOSTAN\source\repos\Visual_Net_Qena_Q1\BLL\obj\Debug\net5.0\BLL.dll
+C:\Users\ELBOSTAN\source\repos\Visual_Net_Qena_Q1\BLL\obj\Debug\net5.0\ref\BLL.dll
+C:\Users\ELBOSTAN\source\repos\Visual_Net_Qena_Q1\BLL\obj\Debug\net5.0\BLL.pdb
+C:\Users\Ahmed\Downloads\BLL\obj\Debug\net5.0\BLL.dll
+C:\Users\Ahmed\Downloads\BLL\obj\Debug\net5.0\BLL.pdb

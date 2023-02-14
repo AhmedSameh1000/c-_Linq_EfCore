@@ -1,0 +1,15 @@
+C:\Users\Ahmed\Desktop\visual_c#\refresh\refresh\refresh\bin\Debug\net7.0\refresh.exe
+C:\Users\Ahmed\Desktop\visual_c#\refresh\refresh\refresh\bin\Debug\net7.0\refresh.deps.json
+C:\Users\Ahmed\Desktop\visual_c#\refresh\refresh\refresh\bin\Debug\net7.0\refresh.runtimeconfig.json
+C:\Users\Ahmed\Desktop\visual_c#\refresh\refresh\refresh\bin\Debug\net7.0\refresh.dll
+C:\Users\Ahmed\Desktop\visual_c#\refresh\refresh\refresh\bin\Debug\net7.0\refresh.pdb
+C:\Users\Ahmed\Desktop\visual_c#\refresh\refresh\refresh\obj\Debug\net7.0\refresh.csproj.AssemblyReference.cache
+C:\Users\Ahmed\Desktop\visual_c#\refresh\refresh\refresh\obj\Debug\net7.0\refresh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed\Desktop\visual_c#\refresh\refresh\refresh\obj\Debug\net7.0\refresh.AssemblyInfoInputs.cache
+C:\Users\Ahmed\Desktop\visual_c#\refresh\refresh\refresh\obj\Debug\net7.0\refresh.AssemblyInfo.cs
+C:\Users\Ahmed\Desktop\visual_c#\refresh\refresh\refresh\obj\Debug\net7.0\refresh.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Desktop\visual_c#\refresh\refresh\refresh\obj\Debug\net7.0\refresh.dll
+C:\Users\Ahmed\Desktop\visual_c#\refresh\refresh\refresh\obj\Debug\net7.0\refint\refresh.dll
+C:\Users\Ahmed\Desktop\visual_c#\refresh\refresh\refresh\obj\Debug\net7.0\refresh.pdb
+C:\Users\Ahmed\Desktop\visual_c#\refresh\refresh\refresh\obj\Debug\net7.0\refresh.genruntimeconfig.cache
+C:\Users\Ahmed\Desktop\visual_c#\refresh\refresh\refresh\obj\Debug\net7.0\ref\refresh.dll

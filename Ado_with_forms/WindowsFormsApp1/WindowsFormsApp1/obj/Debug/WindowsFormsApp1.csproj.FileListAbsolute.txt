@@ -1,0 +1,10 @@
+C:\Users\Ahmed\Desktop\visual_c#\Ado_with_forms\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Ahmed\Desktop\visual_c#\Ado_with_forms\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Ahmed\Desktop\visual_c#\Ado_with_forms\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Ahmed\Desktop\visual_c#\Ado_with_forms\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Ahmed\Desktop\visual_c#\Ado_with_forms\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ahmed\Desktop\visual_c#\Ado_with_forms\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Ahmed\Desktop\visual_c#\Ado_with_forms\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Ahmed\Desktop\visual_c#\Ado_with_forms\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Desktop\visual_c#\Ado_with_forms\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Ahmed\Desktop\visual_c#\Ado_with_forms\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

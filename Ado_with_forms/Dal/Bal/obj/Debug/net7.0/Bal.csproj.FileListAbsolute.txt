@@ -1,0 +1,5 @@
+C:\Users\Ahmed\Desktop\visual_c#\Ado_with_forms\Dal\Bal\obj\Debug\net7.0\Bal.csproj.AssemblyReference.cache
+C:\Users\Ahmed\Desktop\visual_c#\Ado_with_forms\Dal\Bal\obj\Debug\net7.0\Bal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed\Desktop\visual_c#\Ado_with_forms\Dal\Bal\obj\Debug\net7.0\Bal.AssemblyInfoInputs.cache
+C:\Users\Ahmed\Desktop\visual_c#\Ado_with_forms\Dal\Bal\obj\Debug\net7.0\Bal.AssemblyInfo.cs
+C:\Users\Ahmed\Desktop\visual_c#\Ado_with_forms\Dal\Bal\obj\Debug\net7.0\Bal.csproj.CoreCompileInputs.cache

@@ -1,0 +1,7 @@
+C:\Users\Ahmed\Desktop\visual_c#\Ado_with_forms\Dal\App\obj\Debug\net7.0-windows\App.csproj.AssemblyReference.cache
+C:\Users\Ahmed\Desktop\visual_c#\Ado_with_forms\Dal\App\obj\Debug\net7.0-windows\Day8_Form.Form1.resources
+C:\Users\Ahmed\Desktop\visual_c#\Ado_with_forms\Dal\App\obj\Debug\net7.0-windows\App.csproj.GenerateResource.cache
+C:\Users\Ahmed\Desktop\visual_c#\Ado_with_forms\Dal\App\obj\Debug\net7.0-windows\App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed\Desktop\visual_c#\Ado_with_forms\Dal\App\obj\Debug\net7.0-windows\App.AssemblyInfoInputs.cache
+C:\Users\Ahmed\Desktop\visual_c#\Ado_with_forms\Dal\App\obj\Debug\net7.0-windows\App.AssemblyInfo.cs
+C:\Users\Ahmed\Desktop\visual_c#\Ado_with_forms\Dal\App\obj\Debug\net7.0-windows\App.csproj.CoreCompileInputs.cache
